@@ -1,0 +1,23 @@
+{
+  "name": "blocksage",
+  "version": "1.0.1",
+  "description": "A Web3 intelligence tool for analyzing blockchain data, now enhanced with additional functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet.\""
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bignumber.js": "^9.0.1",
+    "dotenv": "^8.2.0",
+    "web3": "^1.3.5",
+    "winston": "^3.3.3"
+  },
+  "author": "octo44",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octo44/blocksage.git"
+  },
+  "homepage": "https://github.com/octo44/blocksage"
+}
